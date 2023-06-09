@@ -43,3 +43,8 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+.head-img {
+  max-width: 100%;
+  vertical-align: middle;
+}
