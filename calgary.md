@@ -26,6 +26,7 @@
     <script src="https://cdn.jsdelivr.net/jquery.tablesorter/2.33.3/js/jquery.tablesorter.min.js"></script>
     <script>
     $(document).ready(function() {
+      console.log("test");
       $("#myTable").tablesorter();
     });
     </script>
