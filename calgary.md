@@ -44,11 +44,16 @@
     <main>
       <h1>Calgary</h1>
       
+      {% assign uniqueCompanies = site.data.calgary_data | map: 'company' | uniq %}
+      
+      {% for company in uniqueCompanies %}
+        {{ company }}
+      {% endfor %}
+      
       <table id="myTable">
         <thead>
           <tr>
             <th class="header">Compagnie</th>
-            <th class="header">Image</th>
             <th class="header">Jeu</th>
             <th class="header">Commentaire</th>
             <th class="header">Intérêt</th>
@@ -58,7 +63,6 @@
           {% for item in site.data.calgary_data %}
             <tr>
               <td><a href="{{ item.companyUrl }}">{{ item.company }}</a></td>
-              <td><img src="{{ item.image }}"/></td>
               <td>{{ item.game }}</td>
               <td>{{ item.comment }}</td>
               <td>{{ item.interest }}</td>
