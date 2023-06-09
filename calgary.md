@@ -23,8 +23,8 @@
     </style>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/jquery.tablesorter/2.33.3/js/jquery.tablesorter.min.js"></script>
-    <script>
+    <script src="https://cdn.jsdelivr.net/npm/tablesorter@2.31.3/dist/js/jquery.tablesorter.combined.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tablesorter@2.31.3/dist/css/theme.bootstrap_4.min.css">
     $(document).ready(function() {
       console.log("test");
       $("#myTable").tablesorter();
