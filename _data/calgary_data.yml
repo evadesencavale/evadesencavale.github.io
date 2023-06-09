@@ -4,7 +4,7 @@
   game: Chaos Effect
   gameUrl: 
   comment: "This one is a bit difficult to rate, mainly because I've heard differing reports from those who didn't like the room because of tech and some GM issues. However, I absolutely loved what they did and the final solve made me cheer in the room. I haven't done that in a long time. Unfortunately, YMMV with this one, and it may be dependent on winning. Take an ace team, this room is definitely not for beginners."
-  interest: ★★★★
+  interest: 
 - city: Calgary
   company: Trapped Calgary
   companyUrl: https://www-1561q.bookeo.com/bookeo/b_trapped-calgary_start.html?ctlsrc2=g8YFBrkyGFGxllI3fEbLTkp8ABTERZ6X0zkIY3H8BVE%3D&src=02h
@@ -46,35 +46,35 @@
   game: Quest of the Hwa-Rang
   gameUrl: 
   comment: "A solid game, with a bit of tech, but reminds me of escape rooms in 2018. Martial arts themed."
-  interest: ★★★    
+  interest:     
 - city: Calgary
   company: Get Outta Here
   companyUrl: https://getouttahere.ca/our-live-rooms
   game: T-Men Tactics
   gameUrl: 
   comment: "A solid game, but reminds me of escape rooms in 2018. Martial arts themed."
-  interest: ★★★  
+  interest:   
 - city: Calgary
   company: Amaze Calgary
   companyUrl: https://amazecalgary.com/
   game: Cabaret Voltaire
   gameUrl: 
   comment: "(2018) A solid room with good puzzles and good for beginners."
-  interest: ★★★  
+  interest:   
 - city: Calgary
   company: Amaze Calgary
   companyUrl: https://amazecalgary.com/
   game: Max Baker vs the Game
   gameUrl: 
   comment: "(2023) If you're into 80s nostalgia, this is amazing. Smooth game and puzzle flow."
-  interest: ★★★★  
+  interest:   
 - city: Calgary
   company: Amaze Calgary
   companyUrl: https://amazecalgary.com/
   game: Tesla's Study
   gameUrl: 
   comment: "(2018) A pretty room of a higher difficulty level I wasn't expecting. Interesting puzzles as well which I appreciated."
-  interest: ★★★    
+  interest:     
 - city: Calgary
   company: Escape Ops
   companyUrl: https://escapeops.ca/
@@ -206,14 +206,14 @@
   companyUrl: https://www.thelockedroom.ca/calgary-southland/
   game: Mission: Antartica
   gameUrl: 
-  comment: "(????)"
+  comment: "(????) Solid room with solid puzzles."
   interest:     
 - city: Calgary
   company: The Locked Room (SL)
   companyUrl: https://www.thelockedroom.ca/calgary-southland/
   game: The Price is Life
   gameUrl: 
-  comment: "(????) Thématique Price is Right"
+  comment: "(????) Thématique Price is Right. Puzzles based on gameshows which I had a surprising amount of fun solving."
   interest:       
 - city: Calgary
   company: The Locked Room (SL)
@@ -234,14 +234,14 @@
   companyUrl: https://www.thelockedroom.ca/southeast-calgary/
   game: Forbidden Temple
   gameUrl: 
-  comment: "(????)"
+  comment: "(????) I felt we only solved because of our experience."
   interest:     
 - city: Calgary
   company: The Locked Room (SE)
   companyUrl: https://www.thelockedroom.ca/southeast-calgary/
   game: Prison Break
   gameUrl: 
-  comment: "(????)"
+  comment: "(????) A lot of ambiguity in this room. Very annoying."
   interest:       
 - city: Calgary
   company: The Locked Room (SE)
@@ -257,6 +257,55 @@
   gameUrl: 
   comment: "(????)"
   interest:     
+- city: Calgary
+  company: Level 1 Escape Room
+  companyUrl: https://www.level1escape.com/escape-rooms/
+  game: The Haunting of Apartment 103
+  gameUrl: 
+  comment: "(????)"
+  interest:      
+- city: Calgary
+  company: Level 1 Escape Room
+  companyUrl: https://www.level1escape.com/escape-rooms/
+  game: The Rise of Ra
+  gameUrl: 
+  comment: "(????)"
+  interest:      
+- city: Calgary
+  company: Level 1 Escape Room
+  companyUrl: https://www.level1escape.com/escape-rooms/
+  game: The Vault
+  gameUrl: 
+  comment: "(????) Puzzles are fine but a little ambiguous. Neat hint system though."
+  interest:     
+- city: Calgary
+  company: Level 1 Escape Room
+  companyUrl: https://www.level1escape.com/escape-rooms/
+  game: The Inside Job
+  gameUrl: 
+  comment: "(????) Puzzles are fine but could be tweaked. Feels old. Neat hint system though."
+  interest:       
+- city: Calgary
+  company: Level 1 Escape Room
+  companyUrl: https://www.level1escape.com/escape-rooms/
+  game: The Test Subjects
+  gameUrl: 
+  comment: "(????)"
+  interest:       
+- city: Calgary
+  company: Level 1 Escape Room
+  companyUrl: https://www.level1escape.com/escape-rooms/
+  game: 911 Response
+  gameUrl: 
+  comment: "(????)"
+  interest:       
+- city: Calgary
+  company: Level 1 Escape Room
+  companyUrl: https://www.level1escape.com/escape-rooms/
+  game: Chapter 2: A Mother’s Love
+  gameUrl: 
+  comment: "(????)"
+  interest:         
 
 
 
