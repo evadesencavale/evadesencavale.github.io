@@ -28,14 +28,14 @@ layout: default
         <div class="post-info">
           <span class="post-meta">{{ post.date | date: date_format }}</span>
           <div>
-            <div class="post-image">
-              <img src="images/{{ post.image }}"/>
-            </div>
             <h3>
               <a class="post-link" href="{{ post.url | relative_url }}">
                 {{ post.title | escape }}
               </a>
-            </h3>
+            </h3>            
+            <div class="post-image">
+              <img src="images/{{ post.image }}" style="float: left; max-width: 25%; margin-right: 10px"/>
+            </div>
             <p>{{ post.description }}</p>
           </div>
         </div>
