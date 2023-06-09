@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Par compagnie
+title: Par ville
 ---
+{% assign postsByCompany = site.posts | group_by: 'company' %}
 
-{% for company in site.company %}
-  <h3>{{ company[0] }}</h3>
+{% for company in postsByCompany %}
+  <h2>{{ company.name }}</h2>
   <ul>
-    {% for post in company[1] %}
-      <li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
+    {% for post in company.items %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
