@@ -2,12 +2,13 @@
 layout: page
 title: Par ville
 ---
+{% assign postsByCity = site.posts | group_by: 'city' %}
 
-{% for city in site.city %}
-  <h3>{{ city[0] }}</h3>
+{% for city in postsByCity %}
+  <h2>{{ city.name }}</h2>
   <ul>
-    {% for post in city[1] %}
-      <li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
+    {% for post in city.items %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
