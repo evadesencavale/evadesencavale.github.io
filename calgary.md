@@ -35,6 +35,7 @@
   </head>
   <body>
     <main>
+      The name of this page is: {{ page.name }}
       <h1>Calgary</h1>
       
       <table id="myTable">
