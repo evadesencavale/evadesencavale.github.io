@@ -3,6 +3,7 @@
     <title>Calgary</title>
     <style>
       .wrapper {
+        max-width: 90%;
         margin-right: auto;
         margin-left: auto;
         padding-right: 30px;
