@@ -52,7 +52,7 @@
           <thead>
             <tr>
               <!-- <th class="header">Compagnie</th> -->
-              <th class="header">Jeu</th>
+              <th class="header" style="min-width: 25%">Jeu</th>
               <th class="header">Commentaire</th>
               <th class="header">Intérêt</th>
             </tr>
