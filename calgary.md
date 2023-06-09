@@ -40,7 +40,6 @@
       <table id="myTable">
         <thead>
           <tr>
-            <th class="header">Ville</th>
             <th class="header">Compagnie</th>
             <th class="header">Jeu</th>
             <th class="header">Commentaire</th>
@@ -50,7 +49,6 @@
         <tbody>
           {% for item in site.data.calgary_data %}
             <tr>
-              <td>{{ item.city }}</td>
               <td><a href="{{ item.companyUrl }}">{{ item.company }}</a></td>
               <td><a href="{{ item.gameUrl }}">{{ item.game }}</a></td>
               <td>{{ item.comment }}</td>
