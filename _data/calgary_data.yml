@@ -123,28 +123,21 @@
   game: Escape Trumps Tower
   gameUrl: 
   comment: "(2017?) Make Escape Rooms Great Again. This room is rated for mature audiences only."
-  interest: ★★★    
+  interest:     
 - city: Calgary
   company: Confined
   companyUrl: https://confined.ca/
   game: Frankenstein
   gameUrl: 
   comment: "(2017) Cool thematic puzzles in this room."
-  interest: ★★★
+  interest: 
 - city: Calgary
   company: Confined
   companyUrl: https://confined.ca/
   game: Nouvelle salle éventuellement
   gameUrl: 
   comment: "(2023)"
-  interest: ★★★★  
-- city: Calgary
-  company: Escape 60
-  companyUrl: https://www.escape60.ca/rooms
-  game: À remplir
-  gameUrl: 
-  comment: "(2023)"
-  interest:     
+  interest:   
 - city: Calgary
   company: Arcadia Adventures
   companyUrl: https://www.escape60.ca/rooms
@@ -306,6 +299,103 @@
   gameUrl: 
   comment: "(????)"
   interest:         
-
+- city: Calgary
+  company: Escape 60 (Downtown)
+  companyUrl: https://www.escape60.ca/rooms
+  game: The Dark Order
+  gameUrl: 
+  comment: "(????) Harry Potter"
+  interest:    
+- city: Calgary
+  company: Escape 60 (Downtown)
+  companyUrl: https://www.escape60.ca/rooms
+  game: "Wizardry: The Dark Order"
+  gameUrl: 
+  comment: "(????) Harry Potter."
+  interest:    
+- city: Calgary
+  company: Escape 60 (Downtown)
+  companyUrl: https://www.escape60.ca/rooms
+  game: "Wizardry: The Hunt for the Dark Lord"
+  gameUrl: 
+  comment: "(????) Harry Potter."
+  interest:      
+- city: Calgary
+  company: Escape 60 (Downtown)
+  companyUrl: https://www.escape60.ca/rooms
+  game: "Wizardry: Wizard Tournament"
+  gameUrl: 
+  comment: "(????) Harry Potter. A lot of potential with great theming. However, puzzles could use more beta-testing, and there was a red herring in it. Good grief."
+  interest:    
+- city: Calgary
+  company: Escape 60 (Downtown)
+  companyUrl: https://www.escape60.ca/rooms
+  game: Jurassic Escape
+  gameUrl: 
+  comment: "(????) Jurassic Park."
+  interest:     
+- city: Calgary
+  company: Escape 60 (Downtown)
+  companyUrl: https://www.escape60.ca/rooms
+  game: Kings of Cocaine (18+)
+  gameUrl: 
+  comment: "(????) Narcos?"
+  interest:      
+- city: Calgary
+  company: Escape 60 (Downtown)
+  companyUrl: https://www.escape60.ca/rooms
+  game: Party Planning Committe
+  gameUrl: 
+  comment: "(????) The Office."
+  interest:     
+- city: Calgary
+  company: Escape 60 (Downtown)
+  companyUrl: https://www.escape60.ca/rooms
+  game: Revengers Assemble
+  gameUrl: 
+  comment: "(????) The Avengers."
+  interest:   
+- city: Calgary
+  company: Escape 60 (Downtown)
+  companyUrl: https://www.escape60.ca/rooms
+  game: Turtle Power
+  gameUrl: 
+  comment: "(????) TMNT."
+  interest:    
+- city: Calgary
+  company: Escape 60 (Downtown)
+  companyUrl: https://www.escape60.ca/rooms
+  game: Friendsgiving
+  gameUrl: 
+  comment: "(????) Friends."
+  interest:   
+- city: Calgary
+  company: Escape 60 (Downtown)
+  companyUrl: https://www.escape60.ca/rooms
+  game: Way of the Mando
+  gameUrl: 
+  comment: "(????) Mandalorian. Cool set, marred by an incredibly stupid puzzle and one flashlight for four of us. I was so annoyed I ranted about it on facebook."
+  interest:   
+- city: Calgary
+  company: Escape 60 (Macleod)
+  companyUrl: https://www.escape60.ca/rooms
+  game: The Spy Who Bombed Me
+  gameUrl: 
+  comment: "(2023) Ouverture Aout 2023."
+  interest:    
+- city: Calgary
+  company: Escape 60 (Macleod)
+  companyUrl: https://www.escape60.ca/rooms
+  game: Heisenburg
+  gameUrl: 
+  comment: "(2023) Ouverture Aout 2023. Breaking Bad."
+  interest:    
+- city: Calgary
+  company: Escape 60 (Macleod)
+  companyUrl: https://www.escape60.ca/rooms
+  game: Burn Book
+  gameUrl: 
+  comment: "(2023) Ouverture Aout 2023."
+  interest:      
 
 
