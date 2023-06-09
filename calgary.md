@@ -2,7 +2,13 @@
   <head>
     <title>Calgary</title>
     <style>
-     
+      .wrapper {
+        margin-right: auto;
+        margin-left: auto;
+        padding-right: 30px;
+        padding-left: 30px;
+      }
+      
       table {
         border-collapse: collapse;
         width: 100%;
