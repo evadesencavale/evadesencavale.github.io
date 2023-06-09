@@ -51,7 +51,7 @@
         <table class="myTable">
           <thead>
             <tr>
-              <th class="header">Compagnie</th>
+              <!-- <th class="header">Compagnie</th> -->
               <th class="header">Jeu</th>
               <th class="header">Commentaire</th>
               <th class="header">Intérêt</th>
@@ -61,7 +61,7 @@
             {% for item in site.data.calgary_data %}
               {% if item.company == company %}
                 <tr>
-                  <td>{{ item.company }}</td>
+                  <!-- <td>{{ item.company }}</td> -->
                   <td>{{ item.game }}</td>
                   <td>{{ item.comment }}</td>
                   <td>{{ item.interest }}</td>
