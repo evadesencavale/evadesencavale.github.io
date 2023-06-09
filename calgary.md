@@ -47,7 +47,7 @@
       {% assign uniqueCompanies = site.data.calgary_data | map: 'company' | uniq %}
       
       {% for company in uniqueCompanies %}
-        <h2>{{ company }}</h2>
+        <h2><a href="{{ item.companyUrl }}">{{ company }}</a></h2>
         <table class="myTable">
           <thead>
             <tr>
@@ -61,7 +61,7 @@
             {% for item in site.data.calgary_data %}
               {% if item.company == company %}
                 <tr>
-                  <td><a href="{{ item.companyUrl }}">{{ item.company }}</a></td>
+                  <td>{{ item.company }}</td>
                   <td>{{ item.game }}</td>
                   <td>{{ item.comment }}</td>
                   <td>{{ item.interest }}</td>
@@ -71,51 +71,7 @@
           </tbody>
         </table>
       {% endfor %}
-      
-      <table id="myTable">
-        <thead>
-          <tr>
-            <th class="header">Compagnie</th>
-            <th class="header">Jeu</th>
-            <th class="header">Commentaire</th>
-            <th class="header">Intérêt</th>
-          </tr>
-        </thead>
-        <tbody>
-          {% for item in site.data.calgary_data %}
-            <tr>
-              <td><a href="{{ item.companyUrl }}">{{ item.company }}</a></td>
-              <td>{{ item.game }}</td>
-              <td>{{ item.comment }}</td>
-              <td>{{ item.interest }}</td>
-            </tr>
-          {% endfor %}
-        </tbody>
-      </table>
-      
-      
-      
-      
-      
-      
-      
-      
-      <!--<ul>
-        <li><a href="https://www-1561q.bookeo.com/bookeo/b_trapped-calgary_start.html?ctlsrc2=g8YFBrkyGFGxllI3fEbLTkp8ABTERZ6X0zkIY3H8BVE%3D&src=02h">Trapped Calgary</a></li>
-        <ul>
-          <li>Attention, posiblement des salles identiques à d'autres succursales de Trapped, comme Markham</li>
-          <li>Jeux</li>
-          <ul>
-            <li>Chaos Effect (Recommandé par Errol)</li>
-            <li>Jack the Ripper</li>
-            <li>Ancient Pyramid</li>
-            <li>Medieval Prison</li>
-            <li>Room 057</li>
-            <li>The Carnival</li>
-          </ul>
-        </ul>
-        <li>BRo2</li>
-      </ul>-->
+
     </main>
   </body>
 </html>
