@@ -1,32 +1,18 @@
-## Blog Post Title From First Header
+## Le Secret des Dunes - À Double Tour (Québec)
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+### Informations
 
-If the file does not start with a header, then the post title will be derived from the filename.
+- Thématique: Égypte
+- Équipe: 4 joueurs
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+### Points positifs
 
----
+- Yeah
 
-### This is a header
+### Points à améliorer
 
-#### Some T-SQL Code
+- Duh
 
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
+### Commentaires
 
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+Je commente.
