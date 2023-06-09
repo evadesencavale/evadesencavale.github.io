@@ -35,7 +35,7 @@
     <script>
     $(document).ready(function() {
       console.log("test");
-      $("#myTable").tablesorter();
+      $(".myTable").tablesorter();
     });
     </script>
     
@@ -47,7 +47,29 @@
       {% assign uniqueCompanies = site.data.calgary_data | map: 'company' | uniq %}
       
       {% for company in uniqueCompanies %}
-        {{ company }}
+        <h2>{{ company }}</h2>
+        <table class="myTable">
+          <thead>
+            <tr>
+              <th class="header">Compagnie</th>
+              <th class="header">Jeu</th>
+              <th class="header">Commentaire</th>
+              <th class="header">Intérêt</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for item in site.data.calgary_data %}
+              {% if item.company == company %}
+                <tr>
+                  <td><a href="{{ item.companyUrl }}">{{ item.company }}</a></td>
+                  <td>{{ item.game }}</td>
+                  <td>{{ item.comment }}</td>
+                  <td>{{ item.interest }}</td>
+                </tr>
+              {% endif %}
+            {% endfor %}
+          </tbody>
+        </table>
       {% endfor %}
       
       <table id="myTable">
