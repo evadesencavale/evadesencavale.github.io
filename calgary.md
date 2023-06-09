@@ -35,7 +35,6 @@
   </head>
   <body>
     <main>
-      The name of this page is: {{ page.name }}
       <h1>Calgary</h1>
       
       <table id="myTable">
@@ -45,15 +44,17 @@
             <th class="header">Compagnie</th>
             <th class="header">Jeu</th>
             <th class="header">Commentaire</th>
+            <th class="header">Intérêt</th>
           </tr>
         </thead>
         <tbody>
           {% for item in site.data.calgary_data %}
             <tr>
               <td>{{ item.city }}</td>
-              <td>{{ item.company item.url }}</td>
-              <td>{{ item.game }}</td>
+              <td><a href="{{ item.companyUrl }}">{{ item.company }}</a></td>
+              <td><a href="{{ item.gameUrl }}">{{ item.game }}</a></td>
               <td>{{ item.comment }}</td>
+              <td>{{ item.interest }}</td>
             </tr>
           {% endfor %}
         </tbody>
