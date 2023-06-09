@@ -50,7 +50,7 @@
           {% for item in site.data.calgary_data %}
             <tr>
               <td><a href="{{ item.companyUrl }}">{{ item.company }}</a></td>
-              <td><a href="{{ item.gameUrl }}">{{ item.game }}</a></td>
+              <td>{{ item.game }}</td>
               <td>{{ item.comment }}</td>
               <td>{{ item.interest }}</td>
             </tr>
