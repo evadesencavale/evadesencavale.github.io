@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Par ville
+title: Par compagnie
 ---
 {% assign postsByCompany = site.posts | group_by: 'company' %}
 
