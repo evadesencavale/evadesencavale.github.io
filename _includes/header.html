@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img class ="head-img" src="/images/evades_750x300_fondtransparent_20180903.png"/>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="/images/evades_750x300_fondtransparent_20180903.png" style="max-width: 75%;"/>
 </a>
 
     {%- if titles_size > 0 -%}
