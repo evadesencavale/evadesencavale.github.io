@@ -1,3 +1,6 @@
+---
+layout: trip-preparation
+---
 <html>
   <head>
     <title>Calgary</title>
