@@ -1,14 +1,8 @@
----
-layout: trip-preparation
----
 <html>
   <head>
     <title>Calgary</title>
     <style>
-      @import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
-      
+     
       table {
         border-collapse: collapse;
         width: 100%;
