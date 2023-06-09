@@ -41,25 +41,23 @@
       <table id="myTable">
         <thead>
           <tr>
-            <th class="header">Column 1</th>
-            <th class="header">Column 2</th>
-            <th class="header">Column 3</th>
+            <th class="header">Ville</th>
+            <th class="header">Compagnie</th>
+            <th class="header">Jeu</th>
+            <th class="header">Commentaire</th>
           </tr>
         </thead>
         <tbody>
           {% for item in site.data.calgary_data %}
             <tr>
-              <td>{{ item.column1 }}</td>
-              <td>{{ item.column2 }}</td>
-              <td>{{ item.column3 }}</td>
+              <td>{{ item.city }}</td>
+              <td>{{ item.company item.url }}</td>
+              <td>{{ item.game }}</td>
+              <td>{{ item.comment }}</td>
             </tr>
           {% endfor %}
         </tbody>
       </table>
-
-      
-      
-      
       
       
       
