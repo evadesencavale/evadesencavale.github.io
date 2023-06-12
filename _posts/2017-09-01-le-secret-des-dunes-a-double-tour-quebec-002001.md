@@ -5,7 +5,7 @@ city: [Québec]
 company: [À Double Tour]
 ---
 
-## Le Secret des Dunes - À Double Tour (Québec)
+## Le Secret des Dunes - À Double Tour
 
 ### Informations
 
