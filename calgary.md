@@ -54,7 +54,7 @@
           {% endif %}
         {% endfor %}
         <h2><a href="{{ companyUrl }}" target="_blank">{{ company }}</a></h2>
-        <h3><span>{{ companyComment }}</span></h3>
+        <span>Commentaire: {{ companyComment }}</span>
         <table class="myTable">
           <thead>
             <tr>
