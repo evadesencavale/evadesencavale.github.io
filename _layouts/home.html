@@ -35,7 +35,10 @@ css: css/override.css
               </a>
             </h3>
             <div class="tag-list">
-              Ville: <span class="post-tag">{{ post.city }}</span>
+              <span class="post-tag">{{ post.city }}</span>
+              {% for tag in post.tags %}
+                <span class="post-tag">{{ tag }}</span>
+              {% endfor %}
             </div>
             <div>
               <div class="post-image">
