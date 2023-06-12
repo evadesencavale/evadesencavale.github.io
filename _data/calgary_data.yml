@@ -1,47 +1,4 @@
 - city: Calgary
-  company: Trapped Calgary
-  companyUrl: https://trapped.com/themes.html
-  game: Chaos Effect
-  image: 
-  comment: "(2019) This one is a bit difficult to rate, mainly because I've heard differing reports from those who didn't like the room because of tech and some GM issues. However, I absolutely loved what they did and the final solve made me cheer in the room. I haven't done that in a long time. Unfortunately, YMMV with this one, and it may be dependent on winning. Take an ace team, this room is definitely not for beginners."
-  interest: 
-- city: Calgary
-  company: Trapped Calgary
-  companyUrl: https://trapped.com/themes.html
-  game: Jack the Ripper
-  image: 
-  comment: "(2019) Pas d'info particulière."
-  interest:   
-- city: Calgary
-  company: Trapped Calgary
-  companyUrl: https://trapped.com/themes.html
-  game: The Carnival
-  image: 
-  comment: "(2020) Pas d'info particulière."
-  interest:   
-- city: Calgary
-  company: Trapped Calgary
-  companyUrl: https://trapped.com/themes.html
-  game: Ancient Pyramid
-  image: 
-  comment: "(2017) Pas d'info particulière."
-  interest:   
-- city: Calgary
-  company: Trapped Calgary
-  companyUrl: https://trapped.com/themes.html
-  game: Room 057
-  image: https://trapped.com/images/room-057-escape-room-poster.jpg
-  comment: "(2021) On l'a fait à Markham et on l'a fini en 23 minutes."
-  interest: 
-- city: Calgary
-  company: Trapped Calgary
-  companyUrl: https://trapped.com/themes.html
-  game: Mediaval Prison
-  image: 
-  comment: "(2017) Pas d'info particulière."
-  interest:     
-  companyComment: "Comme c'est une franchise et qu'on retrouve Chaos Effect pas loin de Toronto, j'aurais tendance à skipper cette compagnie pour en visiter d'autres qui n'existent pas dans notre coin."
-- city: Calgary
   company: Get Outta Here
   companyUrl: https://getouttahere.ca/our-live-rooms
   game: Quest of the Hwa-Rang
@@ -55,6 +12,7 @@
   image: 
   comment: "A solid game, but reminds me of escape rooms in 2018. Martial arts themed."
   interest:   
+  companyComment: "Seulement 2 jeux qui semblent bien, mais pas incroyables. Je viserais des compagnies à 3+ jeux, donc c'est un 'peut-être'."
 - city: Calgary
   company: Amaze Calgary
   companyUrl: https://amazecalgary.com/
@@ -398,3 +356,46 @@
   image: 
   comment: "(2023) Ouverture Aout 2023."
   interest:      
+- city: Calgary
+  company: Trapped Calgary
+  companyUrl: https://trapped.com/themes.html
+  game: Chaos Effect
+  image: 
+  comment: "(2019) This one is a bit difficult to rate, mainly because I've heard differing reports from those who didn't like the room because of tech and some GM issues. However, I absolutely loved what they did and the final solve made me cheer in the room. I haven't done that in a long time. Unfortunately, YMMV with this one, and it may be dependent on winning. Take an ace team, this room is definitely not for beginners."
+  interest: 
+- city: Calgary
+  company: Trapped Calgary
+  companyUrl: https://trapped.com/themes.html
+  game: Jack the Ripper
+  image: 
+  comment: "(2019) Pas d'info particulière."
+  interest:   
+- city: Calgary
+  company: Trapped Calgary
+  companyUrl: https://trapped.com/themes.html
+  game: The Carnival
+  image: 
+  comment: "(2020) Pas d'info particulière."
+  interest:   
+- city: Calgary
+  company: Trapped Calgary
+  companyUrl: https://trapped.com/themes.html
+  game: Ancient Pyramid
+  image: 
+  comment: "(2017) Pas d'info particulière."
+  interest:   
+- city: Calgary
+  company: Trapped Calgary
+  companyUrl: https://trapped.com/themes.html
+  game: Room 057
+  image: https://trapped.com/images/room-057-escape-room-poster.jpg
+  comment: "(2021) On l'a fait à Markham et on l'a fini en 23 minutes."
+  interest: 
+- city: Calgary
+  company: Trapped Calgary
+  companyUrl: https://trapped.com/themes.html
+  game: Mediaval Prison
+  image: 
+  comment: "(2017) Pas d'info particulière."
+  interest:     
+  companyComment: "Comme c'est une franchise et qu'on retrouve Chaos Effect pas loin de Toronto, j'aurais tendance à skipper cette compagnie pour en visiter d'autres qui n'existent pas dans notre coin."
