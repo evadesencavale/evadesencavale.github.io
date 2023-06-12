@@ -46,11 +46,11 @@ hr {
 .post-tag {
   padding: 4px 8px;
   border-radius: 20px;
-  background-color: #dddd;
+  background-color: #aaaa;
 }
 
 .post-tag:hover {
-  background-color: #bbbb;
+  background-color: #cccc;
 }
 
 .post_navi .nav_next .post_navi-arrow {
