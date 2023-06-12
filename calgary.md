@@ -47,7 +47,12 @@
       {% assign uniqueCompanies = site.data.calgary_data | map: 'company' | uniq %}
       
       {% for company in uniqueCompanies %}
-        <h2><a href="{{ company[1] }}">{{ company[0] }}</a></h2>
+        {% for item in site.data.calgary_data %}
+          {% if item.company == company %}
+            {% assign companyUrl = item.companyUrl %}
+          {% endif %}
+        {% endfor %}
+        <h2><a href="{{ companyUrl }}">{{ company }}</a></h2>
         <table class="myTable">
           <thead>
             <tr>
