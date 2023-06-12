@@ -50,9 +50,11 @@
         {% for item in site.data.calgary_data %}
           {% if item.company == company %}
             {% assign companyUrl = item.companyUrl %}
+            {% assign companyComment = item.companyComment %}
           {% endif %}
         {% endfor %}
         <h2><a href="{{ companyUrl }}" target="_blank">{{ company }}</a></h2>
+        <h3><span>{{ companyComment }}</span></h3>
         <table class="myTable">
           <thead>
             <tr>
