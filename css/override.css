@@ -32,6 +32,13 @@ hr {
   left: 0;
 }
 
+.post-tag {
+  padding: 4px 8px;
+  border: 1px solid #000;
+  border-radius: 20px;
+  background-color: red;
+}
+
 .post_navi .nav_next .post_navi-arrow {
   right: 0;
 }
