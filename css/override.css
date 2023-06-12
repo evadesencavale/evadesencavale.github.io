@@ -5,6 +5,10 @@
   font-style: normal;
 }
 
+body { 
+  font-family: "Rubik", sans-serif;
+}
+
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
