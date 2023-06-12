@@ -29,17 +29,17 @@ css: css/override.css
         <div class="post-info">
           <span class="post-meta">{{ post.date | date: date_format }}</span>
           <div>
-            <h3 style="margin-bottom: 0px;">
+            <h3 class="post-h3">
               <a class="post-link" href="{{ post.url | relative_url }}">
                 {{ post.title | escape }}
               </a>
             </h3>
-            <div class="tag-list" style="font-size: 15px;">
-              Ville: <span class="post-tag" style="border: 1px">{{ post.city }}</span>
+            <div class="tag-list">
+              Ville: <span class="post-tag">{{ post.city }}</span>
             </div>
-            <div style="content: ''; display: table; clear: both;">
+            <div>
               <div class="post-image">
-                <img src="images/{{ post.image }}" style="float: left; max-width: 25%; margin-right: 10px"/>
+                <img class="post-img" src="images/{{ post.image }}"/>
               </div>
               <p style="text-align: justify;">{{ post.description }}</p>
             </div>
