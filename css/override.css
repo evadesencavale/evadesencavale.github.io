@@ -53,6 +53,7 @@ hr {
 
 .tag-list {
   margin-bottom: 10px;
+  font-size: 15px;
 }
 
 .title-logo {
@@ -60,7 +61,21 @@ hr {
 }
 
 .post-info {
-  style="content: '';
+  content: '';
   display: table; 
   clear: both;
+}
+
+.post-tag {
+  
+}
+
+.post-h3 {
+  margin-bottom: 0px;  
+}
+
+.post-img {
+ float: left; 
+  max-width: 25%; 
+  margin-right: 10px 
 }
