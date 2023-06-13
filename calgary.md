@@ -48,7 +48,7 @@
         <h2>Proposition</h2>
         <p>En assumant qu'on arrive le jeudi soir et qu'on repart le mardi, ça nous donnerait 4 jours de jeux. Si on s'installe vendredi matin, on pourrait y'aller avec un genre de:</p>
         <ul>
-          <li>Vendredi après-midi soir: Amaze Calgary</li>
+          <li>Vendredi après-midi/soir: Amaze Calgary</li>
           <li>Samedi matin: The Locked Room (SL)</li>
           <li>Samedi après-midi/soir: Arcadia Adventures</li>
           <li>Dimanche toute la journée: Confined</li>
