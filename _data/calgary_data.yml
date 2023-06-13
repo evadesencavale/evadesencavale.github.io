@@ -269,49 +269,42 @@
 - city: Calgary
   company: Escape 60 (Downtown)
   companyUrl: https://www.escape60.ca/rooms
-  game: The Dark Order
-  image: 
-  comment: "(????) Harry Potter"
-  interest:    
-- city: Calgary
-  company: Escape 60 (Downtown)
-  companyUrl: https://www.escape60.ca/rooms
   game: "Wizardry: The Dark Order"
   image: 
-  comment: "(????) Harry Potter."
+  comment: "(2020) Harry Potter."
   interest:    
 - city: Calgary
   company: Escape 60 (Downtown)
   companyUrl: https://www.escape60.ca/rooms
   game: "Wizardry: The Hunt for the Dark Lord"
   image: 
-  comment: "(????) Harry Potter."
+  comment: "(2019) Harry Potter."
   interest:      
 - city: Calgary
   company: Escape 60 (Downtown)
   companyUrl: https://www.escape60.ca/rooms
   game: "Wizardry: Wizard Tournament"
   image: 
-  comment: "(????) Harry Potter. A lot of potential with great theming. However, puzzles could use more beta-testing, and there was a red herring in it. Good grief."
+  comment: "(2019) Harry Potter. A lot of potential with great theming. However, puzzles could use more beta-testing, and there was a red herring in it. Good grief."
   interest:    
 - city: Calgary
   company: Escape 60 (Downtown)
   companyUrl: https://www.escape60.ca/rooms
   game: Jurassic Escape
   image: 
-  comment: "(????) Jurassic Park."
+  comment: "(2019) Jurassic Park."
   interest:     
 - city: Calgary
   company: Escape 60 (Downtown)
   companyUrl: https://www.escape60.ca/rooms
   game: Kings of Cocaine (18+)
   image: 
-  comment: "(????) Narcos?"
+  comment: "(2018?) Narcos?"
   interest:      
 - city: Calgary
   company: Escape 60 (Downtown)
   companyUrl: https://www.escape60.ca/rooms
-  game: Party Planning Committe
+  game: Party Planning Committee
   image: 
   comment: "(????) The Office."
   interest:     
@@ -343,6 +336,7 @@
   image: 
   comment: "(????) Mandalorian. Cool set, marred by an incredibly stupid puzzle and one flashlight for four of us. I was so annoyed I ranted about it on facebook."
   interest:   
+  companyComment: "Pas beaucoup de commentaire. J'imagine qu'on peut s'en choisir 4-5 et aller passer une journée là."
 - city: Calgary
   company: Escape 60 (Macleod)
   companyUrl: https://www.escape60.ca/rooms
