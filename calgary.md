@@ -44,6 +44,20 @@
     <main>
       <h1>Calgary</h1>
       
+      <div>
+        <h2>Proposition</h2>
+        <p>En assumant qu'on arrive le jeudi soir et qu'on repart le mardi, ça nous donnerait 4 jours de jeux. Si on s'installe vendredi matin, on pourrait y'aller avec un genre de:</p>
+        <ul>
+          <li>Vendredi après-midi soir: Amaze Calgary</li>
+          <li>Samedi matin: The Locked Room (SL)</li>
+          <li>Samedi après-midi/soir: Arcadia Adventures</li>
+          <li>Dimanche toute la journée: Confined</li>
+          <li>Lundi matin: Escape Ops</li>
+          <li>Lundi après-midi/soir: Escape 60</li>
+        </ul>
+        <p>En regardant l'horaire de plus près plus tard, on verra si on peut caser Get Outta Here et/ou la nouvelle succursale de Escape 60. Y'a toujours la possibilité de ne pas être en même temps à chaque succursale si on veut aller faire un jeu unique par exemple.</p>
+      </div>
+      
       {% assign uniqueCompanies = site.data.calgary_data | map: 'company' | uniq %}
       
       {% for company in uniqueCompanies %}
