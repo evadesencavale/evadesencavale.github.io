@@ -106,28 +106,29 @@
   game: A Golden Acquisition
   image: 
   comment: "(2017)"
-  interest:    
+  interest: ★★
 - city: Calgary
   company: Arcadia Adventures
   companyUrl: https://arcadiaescaperoom.ca/
   game: Secret of the S.S. Allami
   image: 
   comment: "(2019) A lot of puzzles in this non-linear game, such that we lost! I should have trolled less, but I was having fun."
-  interest:  
+  interest: ★★★
 - city: Calgary
   company: Arcadia Adventures
   companyUrl: https://arcadiaescaperoom.ca/
   game: Survival at Z-Hour
   image: 
   comment: "(2017) Solid game, but a lot of searching in the dark."
-  interest:  
+  interest: ★★★
 - city: Calgary
   company: Arcadia Adventures
   companyUrl: https://arcadiaescaperoom.ca/
   game: Ye Olde Horrible dungeon
   image: 
   comment: "(2017)"
-  interest:    
+  interest: ★★★
+  companyComment: "Ça l'air bien, mais rien de nouveau depuis 2019, donc peut-être pas une priorité."
 - city: Calgary
   company: The Locked Room (NE)
   companyUrl: https://www.thelockedroom.ca/northeast-calgary/
