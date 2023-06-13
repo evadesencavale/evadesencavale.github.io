@@ -135,84 +135,87 @@
   game: Game Over
   image: 
   comment: "(2015) Thématique Mario. Semble sympathique, sans être incroyable."
-  interest:    
+  interest: ★★★ 
 - city: Calgary
   company: The Locked Room (NE)
   companyUrl: https://www.thelockedroom.ca/northeast-calgary/
   game: Quest for Excalibur
   image: 
   comment: "(2019)"
-  interest:     
+  interest: ★★★
 - city: Calgary
   company: The Locked Room (NE)
   companyUrl: https://www.thelockedroom.ca/northeast-calgary/
   game: Mutiny on the High Seas
   image: 
   comment: "(2016)"
-  interest:    
+  interest: ★★★
 - city: Calgary
   company: The Locked Room (NE)
   companyUrl: https://www.thelockedroom.ca/northeast-calgary/
   game: "The Quizzler's Revenge"
   image: 
   comment: "(2019) Thématique Joker. Pretty good."
-  interest:     
+  interest: ★★★
+  companyComment: "Semble être bien, peut-être pas la première succursale de Locked Room que je choisirais, mais je suis intéressé."
 - city: Calgary
   company: The Locked Room (SL)
   companyUrl: https://www.thelockedroom.ca/calgary-southland/
   game: "Mission: Antartica"
   image: 
-  comment: "(????) Solid room with solid puzzles."
-  interest:     
+  comment: "(2018) Solid room with solid puzzles."
+  interest: ★★★★
 - city: Calgary
   company: The Locked Room (SL)
   companyUrl: https://www.thelockedroom.ca/calgary-southland/
   game: The Price is Life
   image: 
-  comment: "(????) Thématique Price is Right. Puzzles based on gameshows which I had a surprising amount of fun solving."
-  interest:       
+  comment: "(2020) Thématique Price is Right. Puzzles based on gameshows which I had a surprising amount of fun solving."
+  interest: ★★★★★
 - city: Calgary
   company: The Locked Room (SL)
   companyUrl: https://www.thelockedroom.ca/calgary-southland/
   game: The Great Train Heist
   image: 
-  comment: "(????)"
-  interest:       
+  comment: "(2016)"
+  interest: ★★   
 - city: Calgary
   company: The Locked Room (SL)
   companyUrl: https://www.thelockedroom.ca/calgary-southland/
   game: Mythical Creatures
   image: 
-  comment: "(????)"
-  interest:     
+  comment: "(2022)"
+  interest: ★★★★  
+  companyComment: "Très intéressé!"
 - city: Calgary
   company: The Locked Room (SE)
   companyUrl: https://www.thelockedroom.ca/southeast-calgary/
   game: Forbidden Temple
   image: 
-  comment: "(????) I felt we only solved because of our experience."
+  comment: "(2016) I felt we only solved because of our experience."
   interest:     
 - city: Calgary
   company: The Locked Room (SE)
   companyUrl: https://www.thelockedroom.ca/southeast-calgary/
   game: Prison Break
   image: 
-  comment: "(????) A lot of ambiguity in this room. Very annoying."
+  comment: "(2016) A lot of ambiguity in this room. Very annoying."
   interest:       
 - city: Calgary
   company: The Locked Room (SE)
   companyUrl: https://www.thelockedroom.ca/southeast-calgary/
   game: The Heist
   image: 
-  comment: "(????)"
+  comment: "(2016)"
   interest:   
 - city: Calgary
   company: The Locked Room (SE)
   companyUrl: https://www.thelockedroom.ca/southeast-calgary/
   game: Captivity
   image: 
-  comment: "(????)"
+  comment: "(2016)"
   interest:     
+  companyComment: "Semble être la plus vieille des succursales de Locked Room, je skipperais."
 - city: Calgary
   company: Level 1 Escape Room
   companyUrl: https://www.level1escape.com/escape-rooms/
